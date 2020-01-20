@@ -1,7 +1,6 @@
 {
   "name": "react-understandable-formula",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {},
   "scripts": {
     "build": "npm run build:cjs && cp package.json dist/package.json",
